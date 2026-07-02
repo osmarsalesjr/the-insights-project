@@ -160,7 +160,7 @@ A estratégia é validar valor antes de escalar complexidade.
 
 ---
 
-Clique [aqui](https://github.com/osmarsalesjr/the-insights-project/blob/main/pdfs_documentation/mvp_documentation.pdf) para visualizar o Documento de MVP completo.
+Clique [aqui](https://github.com/osmarsalesjr/the-insights-project/blob/main/pdfs_documentation/mvp_document.pdf) para visualizar o Documento de MVP completo.
 
 ---
 
