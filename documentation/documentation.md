@@ -20,7 +20,9 @@ A plataforma utiliza técnicas de Processamento de Linguagem Natural (NLP), clas
 * Sugerir planos de ação;
 * Gerar resumos executivos automatizados.
 
-Em vez de exigir análise manual de milhares de interações, o sistema automatiza a identificação de tendências e acelera a tomada de decisão.
+Em vez de exigir análise manual de milhares de interações, o sistema automatiza a identificação de tendências e acelera a tomada de decisão. Veja a visão geral do produto:
+
+![Visão Geral do Produto](https://1drv.ms/i/c/c417189aeed0f9d1/IQTZBlefKFS8Q5Jw47Cxv55MAc8xqlNMaNlBjaIPyNOUCMA?width=1420&height=580)
 
 ---
 
@@ -158,6 +160,10 @@ A estratégia é validar valor antes de escalar complexidade.
 
 ---
 
+Clique [aqui](https://github.com/osmarsalesjr/the-insights-project/blob/main/pdfs_documentation/mvp_documentation.pdf) para visualizar o Documento de MVP completo.
+
+---
+
 ## 1.3 Roadmap do Produto
 
 O roadmap foi estruturado em três fases incrementais.
@@ -180,6 +186,10 @@ O roadmap foi estruturado em três fases incrementais.
 * Redução de 50% do tempo de análise manual;
 * Uso recorrente por gestores piloto.
 
+#### Visão Geral da Fase 01
+
+![Roadmap Geral da Fase 01](https://1drv.ms/i/c/c417189aeed0f9d1/IQQsgGKY5tKbSYDKDCP7EVgcAcQVUOfmn2ZB8rTJfoBXm4I?width=808&height=302)
+
 ---
 
 ### Fase 2 — Escalabilidade e Automação
@@ -198,6 +208,10 @@ O roadmap foi estruturado em três fases incrementais.
 * Aumento de uso entre equipes;
 * Menor tempo de resposta a incidentes.
 
+#### Visão Geral da Fase 02
+
+![Roadmap Geral da Fase 02](https://1drv.ms/i/c/c417189aeed0f9d1/IQQMy5zZcjlHQ61wad39zLEZAXoGKl8fPFUle8zTASeJksk?width=818&height=355)
+
 ---
 
 ### Fase 3 — Inteligência Estratégica
@@ -215,6 +229,10 @@ O roadmap foi estruturado em três fases incrementais.
 
 * Maior assertividade estratégica;
 * Redução de incidentes recorrentes.
+
+#### Visão Geral da Fase 03
+
+![Roadmap Geral da Fase 03](https://1drv.ms/i/c/c417189aeed0f9d1/IQQpJL6SZNQHRIj2sBQ6ZznmAak-FWr_y9RT1pHJwBympS4?width=911&height=361)
 
 ---
 
@@ -296,7 +314,7 @@ Critério contínuo:
 | Risco                         | Probabilidade | Impacto | Mitigação                         |
 | ----------------------------- | ------------- | ------- | --------------------------------- |
 | Baixa qualidade dos dados     | Alta          | Alto    | Pipeline de limpeza e validação   |
-| Hallucination da IA           | Média         | Alto    | Human-in-the-loop                 |
+| Alucinação da IA              | Média         | Alto    | Human-in-the-loop                 |
 | Resistência de usuários       | Média         | Médio   | Treinamento e onboarding          |
 | Custos elevados de inferência | Média         | Alto    | Otimização de modelos             |
 | Vazamento de dados sensíveis  | Baixa         | Crítico | Criptografia e controle de acesso |
@@ -312,7 +330,7 @@ A priorização de mitigação seguirá:
 3. Riscos de adoção
 4. Riscos financeiros
 
-Esse modelo reduz impacto antes que riscos se materializem.
+Esse modelo reduz impacto antes que riscos se materializem. Visualize [aqui](https://airtable.com/appJZ279wUH4Q4KfD/shrruLjNNhx2WWdk3) a Matriz de Riscos completa.
 
 ---
 
