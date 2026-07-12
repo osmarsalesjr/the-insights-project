@@ -210,7 +210,7 @@ O roadmap foi estruturado em três fases incrementais.
 
 #### Visão Geral da Fase 02
 
-![Roadmap Geral da Fase 02](https://1drv.ms/i/c/c417189aeed0f9d1/IQQMy5zZcjlHQ61wad39zLEZAXoGKl8fPFUle8zTASeJksk?width=818&height=355)
+![Roadmap Geral da Fase 02](https://1drv.ms/i/c/c417189aeed0f9d1/IQQMy5zZcjlHQ61wad39zLEZAXoGKl8fPFUle8zTASeJksk?width=818&height=360)
 
 ---
 
@@ -311,13 +311,7 @@ Critério contínuo:
 
 ## 1.5 Gerenciamento de Riscos
 
-| Risco                         | Probabilidade | Impacto | Mitigação                         |
-| ----------------------------- | ------------- | ------- | --------------------------------- |
-| Baixa qualidade dos dados     | Alta          | Alto    | Pipeline de limpeza e validação   |
-| Alucinação da IA              | Média         | Alto    | Human-in-the-loop                 |
-| Resistência de usuários       | Média         | Médio   | Treinamento e onboarding          |
-| Custos elevados de inferência | Média         | Alto    | Otimização de modelos             |
-| Vazamento de dados sensíveis  | Baixa         | Crítico | Criptografia e controle de acesso |
+![Matriz de Riscos](https://1drv.ms/i/c/c417189aeed0f9d1/IQRDsYGctmnFTK0sHdhkUwA8AezyAP9fW7gc43JrCv3ihXo?width=980&height=588)
 
 ### Estratégia de Mitigação
 
