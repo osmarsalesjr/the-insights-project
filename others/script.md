@@ -2,7 +2,7 @@
 
 ## 1. Abertura e Contextualização (40–50 segundos)
 
-Olá! Somos a equipe responsável pelo desenvolvimento do **Projeto Insights**, uma plataforma SaaS com Inteligência Artificial Generativa voltada para transformar dados de atendimento ao cliente em informações estratégicas para tomada de decisão.
+Olá! Eu sou Osmar Ribeiro, responsável pelo pelo planejamento do **Projeto Insights**, uma plataforma SaaS com Inteligência Artificial Generativa voltada para transformar dados de atendimento ao cliente em informações estratégicas para tomada de decisão.
 
 Atualmente, empresas recebem diariamente milhares de interações por diferentes canais, como tickets de suporte, chats e e-mails. Grande parte dessas informações permanece em formato textual e exige análise manual, tornando o processo lento, caro e sujeito a erros.
 
